@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="recipes">Recipes</string>
+    <string name="loading">Loading...</string>
+    <string name="can_t_load_recipes">Can\'t load recipes.</string>
+    <string name="listEmpty">Recipe list is empty.</string>
+    <string name="tryAgain">Something went wrong, please try again.</string>
+    <string name="internetConnection">Can\'t get recipe list, please check you Internet connection.</string>
+</resources>
